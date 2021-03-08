@@ -27,7 +27,7 @@ LOT_SIZE = 10
 POSITION_LIMIT = 1000
 TICK_SIZE_IN_CENTS = 100
 
-# commit comment
+# commit comment 2
 class AutoTrader(BaseAutoTrader):
     """Example Auto-trader.
 
